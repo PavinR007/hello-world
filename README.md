@@ -1,2 +1,3 @@
 # hello-world
-javascript
+Learning Git Hub
+
